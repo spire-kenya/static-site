@@ -1,4 +1,4 @@
-<?php $page_title = "Career Accelerator NGO"; include("header.php"); ?>
+<?php $page_title = "Career Accelerator NGO"; include("./inc/header.php"); ?>
 
   <div class="title-bar career-ngo">
     <div class="container">
@@ -14,7 +14,7 @@
         <div class="col-sm-8">
           <div class="program-description">
             <!-- <h3>What is it?</h3> -->
-            <img src="images/splash-ngo.jpg" class="program-splash" />
+            <img src="/images/splash-ngo.jpg" class="program-splash" />
             <p class="intro">The Career Accelerator (NGO) programme is a 5-week, part-time training course in Nairobi for for 3rd and 4th year university students, recent graduates, or young professionals with less than 4 years of experience.</p>
             <p>The next Career Accelerator will focus on providing you with a toolkit for working in the NGO sector. At the end of the 5 weeks, you will have the practical skills and professional connections to start building an NGO career.</p>
           </div>
@@ -76,7 +76,7 @@
               </div>
             </div>
           </div>
-          <?php include("carousel.php"); ?>
+          <?php include("./inc/carousel.php"); ?>
         </div>
         <div class="col-sm-4">
           <div class="program-details cutout-box">
@@ -170,7 +170,7 @@
         </div>
         <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
           <div class="panel-body">
-            <img src="images/faculty-ktucker.jpg" class="media-object pull-left" />
+            <img src="/images/faculty-ktucker.jpg" class="media-object pull-left" />
             Kiette Tucker is the Country Director for One Acre Fund Kenya (OAF). Her background has given her a rich set of experiences in operations, management and leadership. Originally from the US, Kiette got her start in non-profit and development work with the Institute for Healthcare in Boston, Massachusetts. From there, she moved to Somaliland to work on operations of a start-up secondary boarding school called Abaarso Tech (AT). AT takes top performing Somali students from across Somaliland, provides them with access to a top-notch education and actively works to place them in accredited universities all over the world. After working with AT, Kiette moved to Western Kenya to work with OAF, where she's been ever since. One Acre Fund provides a market bundle of financing, delivery of quality inputs, training and market access to 130,000 smallholder farmers in Kenya. 
           </div>
         </div>
@@ -199,7 +199,7 @@
         </div>
         <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
           <div class="panel-body">
-            <img src="images/faculty-teti.jpg" class="media-object pull-left" />
+            <img src="/images/faculty-teti.jpg" class="media-object pull-left" />
             Caroline works at Evidence Action as a Senior Programme Manager of the national inter-ministerialpublic health programme targeting over six million children annually with deworming. She is a socialscientist with 14 years cumulative work experience in the public sector as well as local and international NGOs. Her experience in advocacy and programme management including design,implementation, monitoring and evaluation spans six years. Among the sectors that Caroline has worked in include: education, Health, water and sanitation, microfinance and health advocacy. 
           </div>
         </div>
@@ -221,4 +221,4 @@
     </div>
   </div>
 
-<?php include("footer.php"); ?>
+<?php include("./inc/footer.php"); ?>
