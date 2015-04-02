@@ -3,8 +3,8 @@
   <div class="splash splash-home">
     <div class="container">
       <div class="text-block">
-        <h2>LATEST: New programme focused on careers in NGO launching in April</h2>
-        <button type="button" class="btn btn-primary btn-lg">Find Out More</button>
+        <h2 class="editable">LATEST: New programme focused on careers in NGO launching in April</h2>
+        <a href="/career-accelerator-ngo/" class="btn btn-primary btn-lg">Find Out More</a>
       </div>
     </div>
   </div>
@@ -65,7 +65,7 @@
           <h3>Our next training programme starts in April</h3>
         </div>
         <div class="col-sm-3">
-          <a href="#" class="btn btn-lg btn-white">Find Out More</a>
+          <a href="/career-accelerator-ngo/" class="btn btn-lg btn-white">Find Out More</a>
         </div>
       </div>
     </div>
@@ -101,11 +101,10 @@
           <h3>Applications are now open for our NGO-focused Career Accelerator in Nairobi</h3>
         </div>
         <div class="col-sm-3">
-          <a href="#" class="btn btn-lg btn-white">Find Out More</a>
+          <a href="/career-accelerator-ngo/" class="btn btn-lg btn-white">Find Out More</a>
         </div>
       </div>
     </div>
   </div>
-
 
 <?php include("./inc/footer.php"); ?>

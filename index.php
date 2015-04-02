@@ -12,7 +12,7 @@ $result = trim(str_replace(basename($_SERVER['SCRIPT_NAME']), '', $path), '/');
 $result = explode('/', $result);
 $max_level = 2;
 while ($max_level < count($result)) {
-    unset($result[0]);
+  unset($result[0]);
 }
 $result = implode('/', $result);
 $file = 'pages/' . $result . '.php';

@@ -3,7 +3,6 @@
   <div class="title-bar">
     <div class="container">
       <h2>Meet the Spire Team</h2>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
     </div>
   </div>
 
@@ -65,7 +64,7 @@
             <h3>See what others have had to say about Spire!</h3>
           </div>
           <div class="col-sm-3">
-            <a href="#" class="btn btn-lg btn-primary">Press Coverage</a>
+            <a href="/press-coverage" class="btn btn-lg btn-primary">Press Coverage</a>
           </div>
         </div>
       </div>
@@ -166,4 +165,5 @@
       </div>
     </div>
   </div>
+  
 <?php include("./inc/footer.php"); ?>

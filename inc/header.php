@@ -4,6 +4,8 @@
   <meta charset="">
   <meta name="viewport" content="width=device-width">
   <link rel="profile" href="http://gmpg.org/xfn/11">
+  <link rel="icon" type="image/png" href="http://staging.spire.is/favicon.ico">
+
   <title><?php echo $page_title; ?></title>
 
   <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet">
@@ -38,7 +40,8 @@
 
       <div class="collapse navbar-collapse" id="main-menu">
         <ul class="nav navbar-nav navbar-right">
-          <li><a href="/career-accelerator-ngo/">Career Accelerator<span class="hidden-sm"> Programme (NGO)</span></a></li>
+          <li><a href="/emerging-managers-programme/">Emerging Managers Programme</a></li>
+          <li><a href="/career-accelerator-ngo/">NGO Career Accelerator Programme<span class="hidden-sm"></span></a></li>
           <li class="visible-xs"><a href="/about-the-team/">The Spire Team</a></li>
           <li class="visible-xs"><a href="/press-coverage/">Press Coverage</a></li>
           <li class="dropdown hidden-xs">

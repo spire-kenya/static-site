@@ -1,10 +1,10 @@
-<?php $page_title = "Career Accelerator NGO"; include("./inc/header.php"); ?>
+<?php $page_title = "NGO Career Accelerator Programme"; include("./inc/header.php"); ?>
 
   <div class="title-bar career-ngo">
     <div class="container">
-      <a href="#" class="btn btn-white btn-large pull-right hidden-xs">Apply Now</a>
-      <h2>Career Accelerator Programme <span>(NGO Focus)</span></h2>
-      <p>A 5-week, part-time career training program aimed at getting you into the workforce.</p>
+      <a href="http://ow.ly/L2dMi" class="btn btn-orange btn-large pull-right hidden-xs">Apply Now</a>
+      <h2>NGO Career Accelerator Programme in partnership with Ashoka</h2>
+      <p>A 5-week part-time transformative learning program that will give you the skills, network and mentorship to start your career in the NGO sector.</p>
     </div>
   </div>
 
@@ -14,8 +14,8 @@
         <div class="col-sm-8">
           <div class="program-description">
             <!-- <h3>What is it?</h3> -->
-            <img src="/images/splash-ngo.jpg" class="program-splash" />
-            <p class="intro">The Career Accelerator (NGO) programme is a 5-week, part-time training course in Nairobi for for 3rd and 4th year university students, recent graduates, or young professionals with less than 4 years of experience.</p>
+            <img src="/images/splash-ngo.jpg" class="program-splash"/>
+            <p class="intro">The NGO Career Accelerator Programme in partnership with Ashoka is a 5-week, part-time training course in Nairobi for 3rd and 4th year university students, recent graduates, or young professionals with less than 4 years of experience.</p>
             <p>The next Career Accelerator will focus on providing you with a toolkit for working in the NGO sector. At the end of the 5 weeks, you will have the practical skills and professional connections to start building an NGO career.</p>
           </div>
           <div class="feature-list">
@@ -24,12 +24,12 @@
                 <div class="media">
                   <div class="media-left">
                     <a href="#">
-                      <img class="media-object" src="http://placehold.it/60x60" alt="...">
+                      <img class="media-object" src="/images/network.png" alt="Spire Networking" style="width: 60px;height:60px;">
                     </a>
                   </div>
                   <div class="media-body">
-                    <h4 class="media-heading">Practical Experience</h4>
-                    You will learn by doing simulations of the most important work in NGOs: from developing new project proposals to presenting results to funders. You will learn to lead teams with confidence and creatively solve major challenges.
+                    <h4 class="media-heading">Network</h4>
+                    Connect with current and future nonprofit leaders who will help you throughout your career.
                   </div>
                 </div>
               </div>
@@ -37,12 +37,12 @@
                 <div class="media">
                   <div class="media-left">
                     <a href="#">
-                      <img class="media-object" src="http://placehold.it/60x60" alt="...">
+                      <img class="media-object" src="/images/mentorship.png" alt="Spire Mentorship" style="width: 60px;height:60px;">
                     </a>
                   </div>
                   <div class="media-body">
-                    <h4 class="media-heading">Professional Connections</h4>
-                    Every week, you will hear from a leader in the NGO sector about their career and what it takes to be successful. You will also have the opportunity to attend exclusive networking events with professionals from the industry.
+                    <h4 class="media-heading">Mentorship</h4>
+                    Personalized coaching to ensure you grow as a modern professional
                   </div>
                 </div>
               </div>
@@ -52,12 +52,12 @@
                 <div class="media">
                   <div class="media-left">
                     <a href="#">
-                      <img class="media-object" src="http://placehold.it/60x60" alt="...">
+                      <img class="media-object" src="/images/personal-experience.png" alt="Spire Personal Experience" style="width: 60px;height:60px;">
                     </a>
                   </div>
                   <div class="media-body">
-                    <h4 class="media-heading">Personal Coaching</h4>
-                    We don't have lecturers, we have a team of career coaches who are passionate about seeing you succeed. We give each student individual attention during and even after the programme as you start your job search.
+                    <h4 class="media-heading">Personal Experience</h4>
+                    Lead real projects that are key to success in major nonprofits
                   </div>
                 </div>
               </div>
@@ -65,53 +65,46 @@
                 <div class="media">
                   <div class="media-left">
                     <a href="#">
-                      <img class="media-object" src="http://placehold.it/60x60" alt="...">
+                      <img class="media-object" src="/images/skills.png" alt="Spire Skills" style="width: 60px;height:60px;">
                     </a>
                   </div>
                   <div class="media-body">
-                    <h4 class="media-heading">Personal Coaching</h4>
-                    We don't have lecturers, we have a team of career coaches who are passionate about seeing you succeed. We give each student individual attention during and even after the programme as you start your job search.
+                    <h4 class="media-heading">Skills</h4>
+                    The latest skills you need to get and succeed in a great nonprofit job.
                   </div>
                 </div>
               </div>
             </div>
           </div>
-          <?php include("./inc/carousel.php"); ?>
+          <?php include("./inc/carousel-ngo.php"); ?>
         </div>
         <div class="col-sm-4">
           <div class="program-details cutout-box">
             <h3>Programme Details</h3>
             <ul class="list-unstyled">
               <li><strong>WHAT:</strong> A toolkit of practical experience, professional connections and personal coaching developed by a team with experience at organisations like the Clinton Health Access Initiative</li>
-              <li><strong>WHEN:</strong> Applications close 10 April for a 20 April start</li>
+              <li><strong>WHEN:</strong> Applications close 20 April for a 24 April start</li>
               <li><strong>HOW LONG:</strong> 5 weeks part-time (running Tues &amp; Thurs 5:30pm-8:30pm, Saturday 9am-1pm)</li>
-              <li><strong>COST:</strong> Please contact the Spire team for more information about pricing and financial assistance.</li>
+              <li><strong>COST:</strong> This programme costs from as little as Ksh 25,000 for the 5-week period. Flexible payment plans are available.</li>
             </ul>
             <div class="subscribe">
               <h4>Want to learn more?</h4>
               <p>Enter your email below and a staff member will contact you with more details.</p>
-              <form action="" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-                <div class="input-group">
-                    <input type="email" value="" placeholder="E-mail address" name="EMAIL" class="required email form-control" id="mce-EMAIL">
+                  <!-- Begin MailChimp Signup Form -->
+                              
+                  <form action="//Spire.us3.list-manage.com/subscribe/post?u=b0fa830fa3531820204008048&amp;id=6fcbedffa8" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>                      <div id="mc_embed_signup_scroll">
+                    <div class="input-group">
+                    <input type="email" value="" name="EMAIL" class="required email form-control" id="mce-EMAIL" placeholder="email address" required>
                     <span class="input-group-btn">
-                  <input type="submit" class="btn btn-warning" value="Subscribe" name="subscribe" id="mc-embedded-subscribe">
+                      <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn btn-warning">
                     </span>
-                </div>
-              </form>
+                    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                      <div style="position: absolute; left: -5000px;"><input type="text" name="b_b0fa830fa3531820204008048_6fcbedffa8" tabindex="-1" value=""></div>
+                      </div>
+                  </form>
+                  </div>
+                  <!--End mc_embed_signup-->
             </div>
-          </div>
-          <div class="important-dates">
-            <h4>Important Dates</h4>
-            <dl class="dl-horizontal">
-              <dt>03/29/2015</dt>
-              <dd>Applications Open for Cycle 1</dd>
-              <dt>03/29/2015</dt>
-              <dd>Applications Close</dd>
-              <dt>03/29/2015</dt>
-              <dd>Applications Open for Cycle 1</dd>
-              <dt>03/29/2015</dt>
-              <dd>Applications Open for Cycle 1</dd>
-            </dl>
           </div>
         </div>
       </div>
@@ -121,10 +114,10 @@
     <div class="container">
       <div class="row">
         <div class="col-sm-9">
-          <h3>Lay the foundations for your NGO career!<br />Applications closing soon.</h3>
+          <h3>Lay the foundations for your NGO career!<br />Applications close April 20.</h3>
         </div>
         <div class="col-sm-3">
-          <a href="#" class="btn btn-lg btn-primary">Apply Now</a>
+          <a href="http://ow.ly/L2dMi" class="btn btn-orange btn-lg">Apply Now</a>
         </div>
       </div>
     </div>
@@ -145,7 +138,7 @@
     <div class="row text-center">
       <div class="col-sm-3 col-sm-offset-1">
         <h4 class="visible-xs">1. Apply</h4>
-        <p>We will be accepting applications for the part-time Career Accelerator Programme (NGO focus) until the 10th of April.</p>
+        <p>We will be accepting applications for the part-time NGO Career Accelerator Programme until the April 20.</p>
       </div>
       <div class="col-sm-4">
         <h4 class="visible-xs">2. Attend Open House</h4>
@@ -185,6 +178,7 @@
         </div>
         <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
           <div class="panel-body">
+            <img src="/images/mwihaki.jpg" class="media-object pull-left" />
             Mwihaki Kimura Muraguri is an Associate Director with the Rockefeller Foundation. Based in the Africa Regional Office, she implements work in the area of health systems, disease surveillance and philanthropy across the region.  In her work, Mwihaki partners with governments and selected national and regional implementers to enable countries to be responsive to emerging pandemics and burgeoning health care demands by supporting health financing reforms. Passionate about her continent, she has worked in the development sector for over fifteen years in dynamic roles as an implementer, practitioner and grantmaker.
           </div>
         </div>
@@ -214,6 +208,7 @@
         </div>
         <div id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
           <div class="panel-body">
+            <img src="/images/anthony.png" class="media-object pull-left" />
             Anthony Okoth is PS Kenya's Chief Executive Officer and currently serves as the Chief of Party on the USAID-funded APHIA plus Health Communications Program.  He has over 21 years of experience in public health programming and medical sales for HIV and AIDS, tuberculosis, reproductive health and malaria. He has extensive experience in health marketing, sales, program management from the commercial and non-profit sectors across the continent. He holds a Master in Business Administration in Marketing from Daystar University in Nairobi, Kenya; and a BSc Biological Sciences from Punjab University in Punjab, India.
           </div>
         </div>

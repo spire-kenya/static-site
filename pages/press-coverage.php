@@ -3,7 +3,6 @@
   <div class="title-bar">
     <div class="container">
       <h2>Press Coverage</h2>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
     </div>
   </div>
 
