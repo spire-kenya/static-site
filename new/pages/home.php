@@ -1,10 +1,4 @@
-<?php
-
-  $page_title = "Spire Kenya";
-  $meta_description = "Spire is a Nairobi-based company that provides short professional courses (3-6 weeks) that help you get hired and build a successful career.";
-  include("./inc/header.php");
-
-?>
+<?php $page_title = "Spire Kenya"; include("./inc/header.php"); ?>
 
   <div class="splash splash-home">
     <div class="container">

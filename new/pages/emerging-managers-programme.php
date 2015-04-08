@@ -2,9 +2,9 @@
 
   <div class="title-bar career-ngo">
     <div class="container">
-          <a href="http://bit.ly/19IDZ2i" class="btn btn-orange btn-large pull-right hidden-xs">Apply Now</a>
-          <h2>Emerging Managers Programme</h2>
-          <p>A 4-week, part-time programme that helps first-time managers become leaders.</p>
+      <a href="http://bit.ly/19IDZ2i" class="btn btn-orange btn-large pull-right hidden-xs">Apply Now</a>
+      <h2>Emerging Managers Programme</h2>
+      <p>A 4-week, part-time programme that helps first-time managers become leaders.</p>
     </div>
   </div>
 
@@ -24,7 +24,9 @@
               <div class="col-sm-6">
                 <div class="media">
                   <div class="media-left">
-                    <img class="media-object" src="/images/skills.png" alt="Spire Skills" style="width: 60px;height:60px;">
+                    <a href="#">
+                      <img class="media-object" src="/images/skills.png" alt="Spire Skills" style="width: 60px;height:60px;">
+                    </a>
                   </div>
                   <div class="media-body">
                     <h4 class="media-heading">SKILLS TO SUCCEED</h4>
@@ -35,9 +37,9 @@
               <div class="col-sm-6">
                 <div class="media">
                   <div class="media-left">
-                    
+                    <a href="#">
                       <img class="media-object" src="/images/network.png" alt="Spire Network" style="width: 60px;height:60px;">
-                    
+                    </a>
                   </div>
                   <div class="media-body">
                     <h4 class="media-heading">NETWORK OF HIGH PERFORMERS</h4>
@@ -50,9 +52,9 @@
               <div class="col-sm-6">
                 <div class="media">
                   <div class="media-left">
-                    
+                    <a href="#">
                       <img class="media-object" src="/images/personal-experience.png" alt="Spire Personal Experience" style="width: 60px;height:60px;">
-                    
+                    </a>
                   </div>
                   <div class="media-body">
                     <h4 class="media-heading">PERSONAL ROADMAP</h4>
@@ -63,9 +65,9 @@
               <div class="col-sm-6">
                 <div class="media">
                   <div class="media-left">
-                    
+                    <a href="#">
                       <img class="media-object" src="/images/certification.png" alt="Spire Certification" style="width: 60px;height:60px;">
-                    
+                    </a>
                   </div>
                   <div class="media-body">
                     <h4 class="media-heading">CERTIFICATION</h4>
@@ -117,9 +119,7 @@
           <h3>Learn to Lead!<br />Applications close April 10.</h3>
         </div>
         <div class="col-sm-3">
-          <div class="center-alignment">
-            <a href="http://bit.ly/19IDZ2i" class="btn btn-orange btn-lg">Apply Now</a>
-          </div>
+          <a href="http://bit.ly/19IDZ2i" class="btn btn-orange btn-lg">Apply Now</a>
         </div>
       </div>
     </div>

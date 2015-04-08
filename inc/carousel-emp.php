@@ -15,7 +15,7 @@
           <blockquote>
             <div class="row">
               <div class="col-sm-3 text-center">
-                <img class="img-circle" src="http://yum.co.ke/media/logos/java_house_logo.jpg" style="width: 100px;height:100px;">
+                <img class="img-circle" src="/images/JavaHouse.png" style="width: 100px;height:100px;">
               </div>
               <div class="col-sm-9">
                 <p>"I never knew how to give feedback until Spire taught me. Now I am a transformed manager!"</p>
@@ -29,7 +29,7 @@
           <blockquote>
             <div class="row">
               <div class="col-sm-3 text-center">
-                <img class="img-circle" src="http://yum.co.ke/media/logos/java_house_logo.jpg" style="width: 100px;height:100px;">
+                <img class="img-circle" src="/images/JavaHouse.png" style="width: 100px;height:100px;">
               </div>
               <div class="col-sm-9">
                 <p>"I was always not confident speaking in a group but Spire has helped me to realise that I can."</p>

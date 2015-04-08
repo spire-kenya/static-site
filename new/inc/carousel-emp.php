@@ -15,11 +15,11 @@
           <blockquote>
             <div class="row">
               <div class="col-sm-3 text-center">
-                <img class="img-circle" src="/images/health-icon.png" style="width: 100px;height:100px;">
+                <img class="img-circle" src="http://yum.co.ke/media/logos/java_house_logo.jpg" style="width: 100px;height:100px;">
               </div>
               <div class="col-sm-9">
-                <p>"...in 6 weeks at Spire, you learn more than in one year of work at most companies."</p>
-                <small>Healthcare CEO</small>
+                <p>"I never knew how to give feedback until Spire taught me. Now I am a transformed manager!"</p>
+                <small>Student 1</small>
               </div>
             </div>
           </blockquote>
@@ -29,11 +29,11 @@
           <blockquote>
             <div class="row">
               <div class="col-sm-3 text-center">
-                <img class="img-circle" src="/images/equity-bank-logo.png" style="width: 100px;height:100px;">
+                <img class="img-circle" src="http://yum.co.ke/media/logos/java_house_logo.jpg" style="width: 100px;height:100px;">
               </div>
               <div class="col-sm-9">
-                <p>"Spire has identified the gap in the right attitude, presenting yourself, and other soft skills you don&#8217;t get in university. Preparing graduates with those skills is the winning point of Spire."</p>
-                <small>Reuben Mbindu - Director of Human Resources, Equity Bank</small>
+                <p>"I was always not confident speaking in a group but Spire has helped me to realise that I can."</p>
+                <small>Student 2</small>
               </div>
             </div>
           </blockquote>

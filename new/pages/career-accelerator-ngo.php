@@ -1,4 +1,4 @@
-<?php $page_title = "NGO Career Accelerator Programme"; include("./inc/header-ngo.php"); ?>
+<?php $page_title = "NGO Career Accelerator Programme"; include("./inc/header.php"); ?>
 
   <div class="title-bar career-ngo">
     <div class="container">
@@ -23,9 +23,9 @@
               <div class="col-sm-6">
                 <div class="media">
                   <div class="media-left">
-                    
+                    <a href="#">
                       <img class="media-object" src="/images/network.png" alt="Spire Networking" style="width: 60px;height:60px;">
-                    
+                    </a>
                   </div>
                   <div class="media-body">
                     <h4 class="media-heading">Network</h4>
@@ -36,9 +36,9 @@
               <div class="col-sm-6">
                 <div class="media">
                   <div class="media-left">
-                    
+                    <a href="#">
                       <img class="media-object" src="/images/mentorship.png" alt="Spire Mentorship" style="width: 60px;height:60px;">
-                    
+                    </a>
                   </div>
                   <div class="media-body">
                     <h4 class="media-heading">Mentorship</h4>
@@ -51,9 +51,9 @@
               <div class="col-sm-6">
                 <div class="media">
                   <div class="media-left">
-                    
+                    <a href="#">
                       <img class="media-object" src="/images/personal-experience.png" alt="Spire Personal Experience" style="width: 60px;height:60px;">
-                    
+                    </a>
                   </div>
                   <div class="media-body">
                     <h4 class="media-heading">Personal Experience</h4>
@@ -64,9 +64,9 @@
               <div class="col-sm-6">
                 <div class="media">
                   <div class="media-left">
-                    
+                    <a href="#">
                       <img class="media-object" src="/images/skills.png" alt="Spire Skills" style="width: 60px;height:60px;">
-                    
+                    </a>
                   </div>
                   <div class="media-body">
                     <h4 class="media-heading">Skills</h4>
@@ -117,9 +117,7 @@
           <h3>Lay the foundations for your NGO career!<br />Applications close April 20.</h3>
         </div>
         <div class="col-sm-3">
-          <div class="center-alignment">
-            <a href="http://ow.ly/L2dMi" class="btn btn-orange btn-lg">Apply Now</a>
-          </div>
+          <a href="http://ow.ly/L2dMi" class="btn btn-orange btn-lg">Apply Now</a>
         </div>
       </div>
     </div>

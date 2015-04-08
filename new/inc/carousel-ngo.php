@@ -32,7 +32,7 @@
                 <img class="img-circle" src="/images/equity-bank-logo.png" style="width: 100px;height:100px;">
               </div>
               <div class="col-sm-9">
-                <p>"Spire has identified the gap in the right attitude, presenting yourself, and other soft skills you don&#8217;t get in university. Preparing graduates with those skills is the winning point of Spire."</p>
+                <p>"pire has identified the gap in the right attitude, presenting yourself, and other soft skills you don’t get in university. Preparing graduates with those skills is the winning point of Spire."</p>
                 <small>Reuben Mbindu - Director of Human Resources, Equity Bank</small>
               </div>
             </div>

@@ -1,10 +1,4 @@
-<?php
-
-  $page_title = isset($page_title) ? $page_title : "Spire Kenya";
-  $meta_description = isset($meta_description) ? $meta_description : "Spire is a Nairobi-based company that provides short professional courses (3-6 weeks) that help you get hired and build a successful career.";
-  $meta_keywords = isset($meta_keywords) ? $meta_keywords : "spire, spire kenya, kenyan jobs, kenya startups, nairobi jobs, work in kenya, work in nairobi, startups in kenya, career accelerators";
-
-?><!DOCTYPE html>
+<!DOCTYPE html>
 <html class="no-js">
 <head>
   <meta charset="">
@@ -13,9 +7,6 @@
   <link rel="icon" type="image/png" href="http://staging.spire.is/favicon.ico">
 
   <title><?php echo $page_title; ?></title>
-
-  <meta name="description" content="<?php echo $meta_description; ?>">
-  <meta name="keywords" content="<?php echo $meta_keywords; ?>">
 
   <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet">
   <link href="/css/spire.css" rel="stylesheet">
@@ -28,24 +19,23 @@
     <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
   <![endif]-->
-  
-  <!-- start of Facebook pixel code-->
-  <script>(function() {
-    var _fbq = window._fbq || (window._fbq = []);
-    if (!_fbq.loaded) {
-      var fbds = document.createElement('script');
-      fbds.async = true;
-      fbds.src = '//connect.facebook.net/en_US/fbds.js';
-      var s = document.getElementsByTagName('script')[0];
-      s.parentNode.insertBefore(fbds, s);
-      _fbq.loaded = true;
-    }
-    _fbq.push(['addPixelId', '1566617236952003']);
-  })();
-  window._fbq = window._fbq || [];
-  window._fbq.push(['track', 'PixelInitialized', {}]);
-  </script>
-  <noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=1566617236952003&amp;ev=PixelInitialized" /></noscript>
+
+<!-- Facebook Conversion Code for Leads - SPIRE -->
+    <script>(function() {
+      var _fbq = window._fbq || (window._fbq = []);
+      if (!_fbq.loaded) {
+        var fbds = document.createElement('script');
+        fbds.async = true;
+        fbds.src = '//connect.facebook.net/en_US/fbds.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(fbds, s);
+        _fbq.loaded = true;
+      }
+    })();
+    window._fbq = window._fbq || [];
+    window._fbq.push(['track', '6033510140680', {'value':'0.00','currency':'USD'}]);
+    </script>
+    <noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?ev=6033510140680&amp;cd[value]=0.00&amp;cd[currency]=USD&amp;noscript=1" /></noscript>
   <!-- End Facebook pixel code-->
 
 </head>

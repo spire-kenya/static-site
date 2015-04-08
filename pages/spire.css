@@ -209,20 +209,9 @@ h1, h2, h3, h4, h5, h6 {
   background-position: 0 0, 15px 15px;*/
 }
 
-.call-out.thankyou {
+.call-out.white{
   background: #fff;
-  text-align: center;
-  color: #1e73be;
 }
-
-.call-out.thankyou h4 {
-  font-style: italic;
-}
-
-.call-out.thankyou h5 {
-  text-decoration: underline;
-}
-
 .video {
   padding: 30px 0;
   text-align: center;
