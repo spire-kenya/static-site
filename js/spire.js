@@ -37,4 +37,10 @@ $(document).ready(function(){
     }
   );
 
+  $(".track").click(function(ev) {
+    var eventName = $(this).data("name");
+    var eventProperties = $(this).data("properties");
+    if(mixpanel) { mixpanel.track(eventName, eventProperties); }
+  });
+
 });
