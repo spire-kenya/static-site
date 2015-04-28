@@ -1,8 +1,8 @@
-<?php $page_title = "NGO Career Accelerator Programme"; include("./inc/header-ngo.php"); ?>
+<?php $page_title = "NGO Career Accelerator Programme"; include("./inc/header.php"); ?>
 
   <div class="title-bar career-ngo">
     <div class="container">
-      <a href="http://ow.ly/L2dMi" class="btn btn-orange btn-large pull-right hidden-xs">Apply Now</a>
+      <a href="" class="btn btn-grey btn-large pull-right track" data-name="clicked Apply closed-top-ngo" data-properties="{page_id: 3, name: 'career accelerator ngo'}">Appl Closed</a>
       <h2>NGO Career Accelerator Programme in partnership with Ashoka</h2>
       <p>A 5-week part-time transformative learning program that will give you the skills, network and mentorship to start your career in the NGO sector.</p>
     </div>
@@ -23,9 +23,9 @@
               <div class="col-sm-6">
                 <div class="media">
                   <div class="media-left">
-                    
+                    <a href="#">
                       <img class="media-object" src="/images/network.png" alt="Spire Networking" style="width: 60px;height:60px;">
-                    
+                    </a>
                   </div>
                   <div class="media-body">
                     <h4 class="media-heading">Network</h4>
@@ -36,9 +36,9 @@
               <div class="col-sm-6">
                 <div class="media">
                   <div class="media-left">
-                    
+                    <a href="#">
                       <img class="media-object" src="/images/mentorship.png" alt="Spire Mentorship" style="width: 60px;height:60px;">
-                    
+                    </a>
                   </div>
                   <div class="media-body">
                     <h4 class="media-heading">Mentorship</h4>
@@ -51,9 +51,9 @@
               <div class="col-sm-6">
                 <div class="media">
                   <div class="media-left">
-                    
+                    <a href="#">
                       <img class="media-object" src="/images/personal-experience.png" alt="Spire Personal Experience" style="width: 60px;height:60px;">
-                    
+                    </a>
                   </div>
                   <div class="media-body">
                     <h4 class="media-heading">Personal Experience</h4>
@@ -64,9 +64,9 @@
               <div class="col-sm-6">
                 <div class="media">
                   <div class="media-left">
-                    
+                    <a href="#">
                       <img class="media-object" src="/images/skills.png" alt="Spire Skills" style="width: 60px;height:60px;">
-                    
+                    </a>
                   </div>
                   <div class="media-body">
                     <h4 class="media-heading">Skills</h4>
@@ -117,9 +117,7 @@
           <h3>Lay the foundations for your NGO career!<br />Applications close April 20.</h3>
         </div>
         <div class="col-sm-3">
-          <div class="center-alignment">
-            <a href="http://ow.ly/L2dMi" class="btn btn-orange btn-lg">Apply Now</a>
-          </div>
+          <a href="" class="btn btn-grey btn-lg track" data-name="clicked Apply closed-middle-ngo" data-properties="{page_id: 3, name: 'career accelerator ngo'}">Appl Closed</a>
         </div>
       </div>
     </div>
@@ -166,7 +164,7 @@
         <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
           <div class="panel-body">
             <img src="/images/faculty-ktucker.jpg" class="media-object pull-left" />
-            Kiette Tucker is the Country Director for One Acre Fund Kenya (OAF). Her background has given her a rich set of experiences in operations, management and leadership. Originally from the US, Kiette got her start in non-profit and development work with the Institute for Healthcare in Boston, Massachusetts. From there, she moved to Somaliland to work on operations of a start-up secondary boarding school called Abaarso Tech (AT). AT takes top performing Somali students from across Somaliland, provides them with access to a top-notch education and actively works to place them in accredited universities all over the world. After working with AT, Kiette moved to Western Kenya to work with OAF, where she's been ever since. One Acre Fund provides a market bundle of financing, delivery of quality inputs, training and market access to 130,000 smallholder farmers in Kenya. 
+            Kiette Tucker is the Country Director for One Acre Fund Kenya (OAF). Her background has given her a rich set of experiences in operations, management and leadership. Originally from the US, Kiette got her start in non-profit and development work with the Institute for Healthcare in Boston, Massachusetts. From there, she moved to Somaliland to work on operations of a start-up secondary boarding school called Abaarso Tech (AT). AT takes top performing Somali students from across Somaliland, provid...(line truncated)...
           </div>
         </div>
       </div>
@@ -181,7 +179,7 @@
         <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
           <div class="panel-body">
             <img src="/images/mwihaki.jpg" class="media-object pull-left" />
-            Mwihaki Kimura Muraguri is an Associate Director with the Rockefeller Foundation. Based in the Africa Regional Office, she implements work in the area of health systems, disease surveillance and philanthropy across the region.  In her work, Mwihaki partners with governments and selected national and regional implementers to enable countries to be responsive to emerging pandemics and burgeoning health care demands by supporting health financing reforms. Passionate about her continent, she has worked in the development sector for over fifteen years in dynamic roles as an implementer, practitioner and grantmaker.
+            Mwihaki Kimura Muraguri is an Associate Director with the Rockefeller Foundation. Based in the Africa Regional Office, she implements work in the area of health systems, disease surveillance and philanthropy across the region.  In her work, Mwihaki partners with governments and selected national and regional implementers to enable countries to be responsive to emerging pandemics and burgeoning health care demands by supporting health financing reforms. Passionate about her continent, she has wor...(line truncated)...
           </div>
         </div>
       </div>
@@ -196,7 +194,7 @@
         <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
           <div class="panel-body">
             <img src="/images/faculty-teti.jpg" class="media-object pull-left" />
-            Caroline works at Evidence Action as a Senior Programme Manager of the national inter-ministerialpublic health programme targeting over six million children annually with deworming. She is a socialscientist with 14 years cumulative work experience in the public sector as well as local and international NGOs. Her experience in advocacy and programme management including design,implementation, monitoring and evaluation spans six years. Among the sectors that Caroline has worked in include: education, Health, water and sanitation, microfinance and health advocacy. 
+            Caroline works at Evidence Action as a Senior Programme Manager of the national inter-ministerialpublic health programme targeting over six million children annually with deworming. She is a socialscientist with 14 years cumulative work experience in the public sector as well as local and international NGOs. Her experience in advocacy and programme management including design,implementation, monitoring and evaluation spans six years. Among the sectors that Caroline has worked in include: educati...(line truncated)...
           </div>
         </div>
       </div>
@@ -211,11 +209,23 @@
         <div id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
           <div class="panel-body">
             <img src="/images/anthony.png" class="media-object pull-left" />
-            Anthony Okoth is PS Kenya's Chief Executive Officer and currently serves as the Chief of Party on the USAID-funded APHIA plus Health Communications Program.  He has over 21 years of experience in public health programming and medical sales for HIV and AIDS, tuberculosis, reproductive health and malaria. He has extensive experience in health marketing, sales, program management from the commercial and non-profit sectors across the continent. He holds a Master in Business Administration in Marketing from Daystar University in Nairobi, Kenya; and a BSc Biological Sciences from Punjab University in Punjab, India.
+            Anthony Okoth is PS Kenya's Chief Executive Officer and currently serves as the Chief of Party on the USAID-funded APHIA plus Health Communications Program.  He has over 21 years of experience in public health programming and medical sales for HIV and AIDS, tuberculosis, reproductive health and malaria. He has extensive experience in health marketing, sales, program management from the commercial and non-profit sectors across the continent. He holds a Master in Business Administration in Marketi...(line truncated)...
           </div>
         </div>
       </div>
     </div>
   </div>
-
+<div class="call-out light">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-9">
+          <h3>Ready to apply? Applications close April 20.</h3>
+        </div>
+        <div class="col-sm-3">
+          <a href="" class="btn btn-grey btn-lg track" data-name="clicked Apply closed-bottom-ngo" data-properties="{page_id: 3, name: 'career accelerator ngo'}">Appl Closed</a>
+        </div>
+      </div>
+    </div>
+  </div>
+<script type="text/javascript">mixpanel.track("Career Accelerator NGO")</script>
 <?php include("./inc/footer.php"); ?>
