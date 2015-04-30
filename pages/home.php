@@ -9,7 +9,7 @@ include("./inc/header.php");
 <div class="splash splash-home">
     <div class="container">
         <div class="text-block">
-            <h2 class="editable">LATEST: New programme focused on careers in NGO launching in April</h2>
+            <h2 class="editable">LATEST: New programme focused on careers in NGO launched in April</h2>
             <a href="/career-accelerator-ngo/" class="btn btn-primary btn-lg track" data-name="clicked find out more-top-homepage" data-properties="{page_id: 1, name: 'spire homepage'}">Find Out More</a>
         </div>
     </div>
@@ -68,7 +68,7 @@ include("./inc/header.php");
     <div class="container">
         <div class="row">
             <div class="col-sm-9">
-                <h3>Our next training programme starts in April</h3>
+                <h3>We are currently running the NGO-focused career Programme</h3>
             </div>
             <div class="col-sm-3">
                 <a href="/career-accelerator-ngo/" class="btn btn-lg btn-white track" data-name="clicked find out more-middle-homepage" data-properties="{page_id: 1, name: 'spire homepage'}">Find Out More</a>
@@ -104,7 +104,7 @@ include("./inc/header.php");
     <div class="container">
         <div class="row">
             <div class="col-sm-9">
-                <h3>Applications are now open for our NGO-focused Career Accelerator in Nairobi</h3>
+                <h3>We are currently running the NGO-focused career Programme</h3>
             </div>
             <div class="col-sm-3">
                 <a href="/career-accelerator-ngo/" class="btn btn-lg btn-white track" data-name="clicked find out more-bottom-homepage" data-properties="{page_id: 1, name: 'spire homepage'}">Find Out More</a>

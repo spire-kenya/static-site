@@ -114,7 +114,7 @@
     <div class="container">
       <div class="row">
         <div class="col-sm-9">
-          <h3>Lay the foundations for your NGO career!<br />Applications close April 20.</h3>
+          <h3>Lay the foundations for your NGO career!.</h3>
         </div>
         <div class="col-sm-3">
           <a href="" class="btn btn-grey btn-lg track" data-name="clicked Apply closed-middle-ngo" data-properties="{page_id: 3, name: 'career accelerator ngo'}">Appl Closed</a>
@@ -215,7 +215,7 @@
       </div>
     </div>
   </div>
-<div class="call-out light">
+<!--<div class="call-out light">
     <div class="container">
       <div class="row">
         <div class="col-sm-9">
@@ -226,6 +226,6 @@
         </div>
       </div>
     </div>
-  </div>
+  </div>-->
 <script type="text/javascript">mixpanel.track("Career Accelerator NGO")</script>
 <?php include("./inc/footer.php"); ?>

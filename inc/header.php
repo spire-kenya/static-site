@@ -82,7 +82,7 @@
 
       <div class="collapse navbar-collapse" id="main-menu">
         <ul class="nav navbar-nav navbar-right">
-          <li><a href="/emerging-managers-programme/">Emerging Managers Programme</a></li>
+   <!--       <li><a href="/emerging-managers-programme/">Emerging Managers Programme</a></li>-->
           <li><a href="/career-accelerator-ngo/">NGO Career Accelerator Programme<span class="hidden-sm"></span></a></li>
           <li class="visible-xs"><a href="/about-the-team/">The Spire Team</a></li>
           <li class="visible-xs"><a href="/press-coverage/">Press Coverage</a></li>
