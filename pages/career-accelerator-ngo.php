@@ -85,7 +85,7 @@
               <li><strong>WHAT:</strong> A toolkit of practical experience, professional connections and personal coaching developed by a team with experience at organisations like the Clinton Health Access Initiative</li>
               <li><strong>WHEN:</strong> Applications close 20 April for a 24 April start</li>
               <li><strong>HOW LONG:</strong> 5 weeks part-time (running Tues &amp; Thurs 5:30pm-8:30pm, Saturday 9am-1pm)</li>
-              <li><strong>COST:</strong> This programme costs from as little as Ksh 26,000 for the 5-week period. Flexible payment plans are available.</li>
+              <li><strong>COST:</strong> This programme costs from as little as Ksh 25,000 for the 5-week period. Flexible payment plans are available.</li>
             </ul>
             <div class="subscribe">
               <h4>Want to learn more?</h4>
