@@ -1,5 +1,5 @@
 <?php
-
+ini_set('MAX_EXECUTION_TIME', -1);
 // Require base functions
 require('inc/functions.php');
 
