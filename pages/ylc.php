@@ -15,7 +15,7 @@
         </div>
     </div>
 </div>
-<p align = "center"><img src = "images/ylc.png" width = "1000" height = "1500">
+<p align = "center"><img src = "images/ylc.png" width = "900" height = "1350">
 </p>
 <div class="call-camp">
     <div class="container">
