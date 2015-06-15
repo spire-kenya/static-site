@@ -7,7 +7,7 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-9">
-                <h3>Is your company ready to reach new heights?</h3>
+                <h3>WE BUILD EDUCATION PROGRAMS THAT WORK</h3>
             </div>
             <div class="col-sm-3">
                 <a href="/partnerships/" class="btn btn-lg btn-white">Find Out More</a>
@@ -21,7 +21,7 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-9">
-                <h3>Is your company ready to reach new heights?</h3>
+                <h3>WE BUILD EDUCATION PROGRAMS THAT WORK</h3>
             </div>
             <div class="col-sm-3">
                 <a href="/partnerships/" class="btn btn-lg btn-white">Find Out More</a>
