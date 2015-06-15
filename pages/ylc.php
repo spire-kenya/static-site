@@ -17,7 +17,7 @@
 </div>
 <p align = "center"><img src = "images/ylc.png" width = "1000" height = "1500">
 </p>
-<div class="call-out">
+<div class="call-camp">
     <div class="container">
         <div class="row">
             <div class="col-sm-9">
