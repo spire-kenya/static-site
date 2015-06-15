@@ -3,7 +3,7 @@
 <title> Welcome to Spire Schools</title>
 
 <body>
-<div class="call-out">
+<div class="call-camp">
     <div class="container">
         <div class="row">
             <div class="col-sm-9">
