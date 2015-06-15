@@ -10,7 +10,7 @@
                 <h3>We build education programs that work</h3>
             </div>
             <div class="col-sm-3">
-                <a href="/partnerships/" class="btn btn-lg btn-white">Find Out More</a>
+                <a href="http://goo.gl/forms/c3lu52AzIe" class="btn btn-lg btn-white">Find Out More</a>
             </div>
         </div>
     </div>
@@ -24,7 +24,7 @@
                 <h3>We build education programs that work</h3>
             </div>
             <div class="col-sm-3">
-                <a href="/partnerships/" class="btn btn-lg btn-white">Find Out More</a>
+                <a href="http://goo.gl/forms/c3lu52AzIe" class="btn btn-lg btn-white">Find Out More</a>
             </div>
         </div>
     </div>
