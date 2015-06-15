@@ -15,7 +15,7 @@
         </div>
     </div>
 </div>
-<p align = "center"><img src = "images/Robocamp.png" width = "900" height = "1350">
+<p align = "center"><img src = "images/Robocamp.png" width = "800" height = "1200">
 </p>
 <div class="call-camp">
     <div class="container">
