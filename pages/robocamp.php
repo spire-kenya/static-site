@@ -10,7 +10,7 @@
                 <h3>Is your child ready to learn this August?</h3>
             </div>
             <div class="col-sm-3">
-                <a href="http://bit.ly/spirerobocamp" class="btn btn-lg btn-white">Join Our Camp</a>
+                <a href="http://bit.ly/spirerobocamp" class="btn btn-lg btn-orange">Join Our Camp</a>
             </div>
         </div>
     </div>
@@ -24,7 +24,7 @@
                 <h3>Is your child ready to learn this August?</h3>
             </div>
             <div class="col-sm-3">
-                <a href="http://bit.ly/spirerobocamp" class="btn btn-lg btn-white">Join Our Camp</a>
+                <a href="http://bit.ly/spirerobocamp" class="btn btn-lg btn-orange">Join Our Camp</a>
             </div>
         </div>
     </div>
