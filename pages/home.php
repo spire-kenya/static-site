@@ -5,7 +5,7 @@
         <div class="modal-content">
             <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-                <h1 class="modal-title" id="myModalLabel">Spire Presents Spire Schools</h1>
+                <h1 class="modal-title" id="myModalLabel">Spire Presents <i>Spire Schools</i></h1>
             </div>
             <div class="modal-body">
                 <p>Spire is delighted to announce that we are launching a world-class 8-4-4 secondary school in January 2016.</p>
