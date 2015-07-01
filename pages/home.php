@@ -8,23 +8,21 @@
                 <h1 class="modal-title" id="myModalLabel">Spire Presents Spire Schools</h1>
             </div>
             <div class="modal-body">
-                <p>Our mission is: To educate students, irrespective of their nationality, religion, family background and academic standard.</p>
-                <p>We are awesome because:</p>
+                <p>Spire is delighted to announce that we are launching a world-class 8-4-4 secondary school in January 2016.</p>
+                <p>Our school will prepare students to be future leaders in Kenya and globally through a unique model that combines the best of Kenyan and American education</p>
+                <p>The Spire difference</p>
                 <ul>
                     <li>
-                        We are.......
+                        Performance-Strong KCSE preparation using our background leading Alliance School
                     </li>
                     <li>
-                        We are.......
+                        Technology-Preparation for modern work through deep technology exposure
                     </li>
                     <li>
-                        We are.......
+                        Values-Strong holistic development to build diligence, humility, service and responsibility
                     </li>
                     <li>
-                        We are.......
-                    </li>
-                    <li>
-                        We are.......
+                        21st Century skills-ritical thinking, creativity and other leadership skills using international methods from partners like Harvard and the Africa Leadership Academy
                     </li>
                 </ul>
             </div>
