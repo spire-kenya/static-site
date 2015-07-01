@@ -10,21 +10,7 @@
             <div class="modal-body">
                 <p>Spire is delighted to announce that we are launching a world-class 8-4-4 secondary school in January 2016.</p>
                 <p>Our school will prepare students to be future leaders in Kenya and globally through a unique model that combines the best of Kenyan and American education</p>
-                <p>The Spire difference</p>
-                <ul>
-                    <li>
-                        Performance-Strong KCSE preparation using our background leading Alliance School
-                    </li>
-                    <li>
-                        Technology-Preparation for modern work through deep technology exposure
-                    </li>
-                    <li>
-                        Values-Strong holistic development to build diligence, humility, service and responsibility
-                    </li>
-                    <li>
-                        21st Century skills-ritical thinking, creativity and other leadership skills using international methods from partners like Harvard and the Africa Leadership Academy
-                    </li>
-                </ul>
+                
             </div>
             <div class="modal-footer">
                 <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
