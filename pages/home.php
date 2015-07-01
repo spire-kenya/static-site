@@ -5,7 +5,7 @@
         <div class="modal-content">
             <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-                <h1 class="modal-title" id="myModalLabel">Spire Presents [......] Academy</h1>
+                <h1 class="modal-title" id="myModalLabel">Spire Presents Spire Schools</h1>
             </div>
             <div class="modal-body">
                 <p>Our mission is: To educate students, irrespective of their nationality, religion, family background and academic standard.</p>
