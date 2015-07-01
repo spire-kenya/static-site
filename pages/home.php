@@ -1,43 +1,157 @@
-<?php
-
-$page_title = "Spire Kenya";
-$meta_description = "Spire is a Nairobi-based company that provides short professional courses (3-6 weeks) that help you get hired and build a successful career.";
-include("./inc/header.php");
-
-?>
-
+<?php $page_title = "Spire Kenya"; include("./inc/header.php"); ?>
+<!--modal begins-->
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h1 class="modal-title" id="myModalLabel">Spire Presents [......] Academy</h1>
+            </div>
+            <div class="modal-body">
+                <p>Our mission is: To educate students, irrespective of their nationality, religion, family background and academic standard.</p>
+                <p>We are awesome because:</p>
+                <ul>
+                    <li>
+                        We are.......
+                    </li>
+                    <li>
+                        We are.......
+                    </li>
+                    <li>
+                        We are.......
+                    </li>
+                    <li>
+                        We are.......
+                    </li>
+                    <li>
+                        We are.......
+                    </li>
+                </ul>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                <a href="http://schools.spire.is" class="btn btn-primary">Find Out More</a>
+            </div>
+        </div>
+    </div>
+</div>
+<!--modal ends-->
 <div class="splash splash-home">
     <div class="container">
         <div class="text-block">
-            <h2 class="editable">LATEST: New programme focused on careers in NGO launched in April</h2>
-            <a href="/career-accelerator-ngo/" class="btn btn-primary btn-lg track" data-name="clicked find out more-top-homepage" data-properties="{page_id: 1, name: 'spire homepage'}">Find Out More</a>
+            <h2 class="editable">We build education programs that <i>work</i></h2>
+            <!--<a href="/partnerships/" class="btn btn-primary btn-lg">Find Out More</a>-->
         </div>
     </div>
 </div>
 
 <div class="companies">
-    <?php image_tag("companies.jpg"); ?>
+    <h1>Our Mission.</h1>
+    <h3>We partner with high impact organizations to deliver transformative learning programmes that enhance how individuals and teams think, act and achieve results.</h3>
+    <?php /*image_tag("companies.jpg"); */?>
 </div>
 
 <div class="what-is-spire">
-    <div class="container">
-        <h1>What is Spire?</h1>
-        <p>Spire is a Kenyan company that provides short professional courses (3-6 weeks) in Nairobi.</p>
-
-        <h4>A LEARNING PARTNER.</h4>
-        <p>Our world-class programmes are designed to give you the right training at the right time. You will receive constant feedback to help you at every step.</p>
-
-        <h4>A WINNING APPROACH.</h4>
-        <p>Our classrooms use practical training with personal attention. The curriculum focuses on developing the skills you need with the mindset to make them work for you.</p>
-
-        <h4>A TEAM WITH EXPERIENCE.</h4>
-        <p>Our passionate team of coaches and curriculum designers draw on experience at companies like McKinsey and decades of experience in Kenya. Most of all, they are driven by a sense of fun and a desire to see you succeed!</p>
+    <div class="container program-staff">
+        <h1>Our Model</h1>
+        <p>Our curriculum is focused on shaping mindsets and improving your staff's professional skills to ensure impact and  long lasting results. Our programmes include&#58;
+        <div class="feature-list">
+            <div class="row">
+                <div class="col-sm-6">
+                    <div class="media">
+                        <div class="media-left">
+                            <a href="#">
+                                <img class="media-object" src="/images/customerservice.png" alt="Spire Skills" style="width: 128px;height:128px;">
+                            </a>
+                        </div>
+                        <div class="media-body">
+                            <h4 class="media-heading">Customer Service Training</h4>
+                            You will learn how great leadership produces sustainable improvements to performance. Our methodology gives you lessons that you can immediately apply..
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6">
+                    <div class="media">
+                        <div class="media-left">
+                            <a href="#">
+                                <img class="media-object" src="/images/marketing.png" alt="Spire Network" style="width: 128px;height:128px;">
+                            </a>
+                        </div>
+                        <div class="media-body">
+                            <h4 class="media-heading">Sales &#38; Marketing </h4>
+                            You will not only have the opportunity to hear from experienced managers, but also make connections with your peers that will benefit you throughout your career.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </p>
+        <h1>Our Delivery</h1>
+        <div class="feature-list">
+            <div class="row">
+                <div class="col-sm-6">
+                    <div class="media">
+                        <div class="media-left">
+                            <a href="#">
+                                <img class="media-object" src="/images/trainers.png" alt="Spire Skills" style="width: 128px;height:128px;">
+                            </a>
+                        </div>
+                        <div class="media-body">
+                            <h4 class="media-heading">Team</h4>
+                            Our team of professionals come from different backgrounds and have vast experiences in developing young talent. Our passionate team of coaches and Programme designers draw on their experience at companies like McKinsey and decades of experience in East Africa.
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6">
+                    <div class="media">
+                        <div class="media-left">
+                            <a href="#">
+                                <img class="media-object" src="/images/platform.png" alt="Spire Network" style="width: 128px;height:128px;">
+                            </a>
+                        </div>
+                        <div class="media-body">
+                            <h4 class="media-heading">Online learning management system </h4>
+                            Complementary to our in-person sessions, we offer an online system that provides personalized and interactive learning experiences.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--<h1>Reports &#38; Analysis.</h1>
+       <p><b>Performance measurement</b>- Our online platform also allows managers to track results and measure learning  impact throughout the entire lifecycle of a learner</p>-->
     </div>
 </div>
-
+<div class="container getting-in">
+    <h3>How To Become A Partner</h3>
+    <div class="in-bar hidden-xs">
+        <div class="in-dot apply">
+            <h4>1. Contact Us</h4>
+        </div>
+        <div class="in-dot open-house">
+            <h4>2. Pick your Package </h4>
+        </div>
+        <div class="in-dot start-learning">
+            <h4>3. Start Learning</h4>
+        </div>
+    </div>
+    <div class="row text-center">
+        <div class="col-sm-3 col-sm-offset-1">
+            <h4 class="visible-xs">1. Contact Us</h4>
+            <p>Contact us by filling the contact form and we will schedule a meeting with your team.</p>
+        </div>
+        <div class="col-sm-4">
+            <h4 class="visible-xs">2. Pick your Package</h4>
+            <p>We will provide you a comprehensive learning menu where you can choose the programmes you desire for your organization.</p>
+        </div>
+        <div class="col-sm-3">
+            <h4 class="visible-xs">3. Start Learning</h4>
+            <p>We start empowering your members of staff.</p>
+        </div>
+    </div>
+</div>
 <div class="heading gray">
     <div class="container">
-        <h2>What students and employers say about Spire:</h2>
+        <h2>What Partners &#38; Learners say about Spire:</h2>
     </div>
 </div>
 
@@ -68,10 +182,10 @@ include("./inc/header.php");
     <div class="container">
         <div class="row">
             <div class="col-sm-9">
-                <h3>We are currently running the NGO-focused career Programme</h3>
+                <h3>Is your company ready to reach new heights?</h3>
             </div>
             <div class="col-sm-3">
-                <a href="/career-accelerator-ngo/" class="btn btn-lg btn-white track" data-name="clicked find out more-middle-homepage" data-properties="{page_id: 1, name: 'spire homepage'}">Find Out More</a>
+                <a href="/partnerships/" class="btn btn-lg btn-white">Find Out More</a>
             </div>
         </div>
     </div>
@@ -87,30 +201,30 @@ include("./inc/header.php");
     <div class="row">
         <div class="col-sm-4">
             <span class="stat-number">2500</span>
-            <p class="stat-text">PEOPLE APPLY FOR EACH ACCELERATOR</p>
+            <p class="stat-text">EMPLOYEES TRAINED</p>
         </div>
         <div class="col-sm-4">
-            <span class="stat-number">120</span>
-            <p class="stat-text">AVAILABLE PLACES IN OUR APRIL 2015 ACCELERATOR</p>
+            <span class="stat-number">2500</span>
+            <p class="stat-text">EMPLOYEES TRAINED</p>
         </div>
         <div class="col-sm-4">
-            <span class="stat-number">15</span>
-            <p class="stat-text">MINUTES TO APPLY</p>
+            <span class="stat-number">2500</span>
+            <p class="stat-text">EMPLOYEES TRAINED</p>
         </div>
     </div>
 </div>
 
-<div class="call-out bottom">
-    <div class="container">
-        <div class="row">
-            <div class="col-sm-9">
-                <h3>We are currently running the NGO-focused career Programme</h3>
-            </div>
-            <div class="col-sm-3">
-                <a href="/career-accelerator-ngo/" class="btn btn-lg btn-white track" data-name="clicked find out more-bottom-homepage" data-properties="{page_id: 1, name: 'spire homepage'}">Find Out More</a>
-            </div>
-        </div>
+<!--<div class="call-out bottom">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-9">
+        <h3>Applications are now open for our NGO-focused Career Accelerator in Nairobi</h3>
+      </div>
+      <div class="col-sm-3">
+        <a href="/career-accelerator-ngo/" class="btn btn-lg btn-white">Find Out More</a>
+      </div>
     </div>
-</div>
-<script type="text/javascript">mixpanel.track("Spire Homepage")</script>
+  </div>
+</div>-->
+
 <?php include("./inc/footer.php"); ?>
