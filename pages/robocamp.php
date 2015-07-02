@@ -3,7 +3,7 @@
 <title> Welcome to Spire Schools</title>
 
 <body>
-<div class="title-bar">
+<div class="call-out">
     <div class="container">
         <div class="row">
             <div class="col-sm-9">
@@ -17,7 +17,7 @@
 </div>
 <p align = "center"><img src = "images/Robocamp.png" width = "800" height = "1200">
 </p>
-<div class="call-camp">
+<div class="call-out">
     <div class="container">
         <div class="row">
             <div class="col-sm-9">
