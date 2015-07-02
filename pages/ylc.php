@@ -1,4 +1,4 @@
-<?php $page_title = "Spire Kenya"; include("./inc/headercamp.php"); ?>
+<?php $page_title = "Spire Kenya"; include("./inc/header.php"); ?>
 <head> </head>
 <title> Welcome to Spire Schools</title>
 
