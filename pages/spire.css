@@ -188,11 +188,6 @@ h1, h2, h3, h4, h5, h6 {
   background: #1e73be;
   color: #fff;
 }
-.call-camp {
-    padding: 40px 0;  margin: 20px 0;
-    background: #1e73be;
-    color: #fff;
-}
 .call-out.bottom {
   margin-bottom: 0;
 }
@@ -464,3 +459,8 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 @media(min-width:1200px){}
+.call-camp {
+    padding: 40px 0;  margin: 20px 0;
+    background: #1e73be;
+    color: #fff;
+}
