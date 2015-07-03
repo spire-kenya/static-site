@@ -17,7 +17,6 @@
 </div>
 <p align = "center"><img src = "images/Robocamp.png" width = "800" height = "1200">
 </p>
-
 <div class="call-out">
     <div class="container">
         <div class="row">
