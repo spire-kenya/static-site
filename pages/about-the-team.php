@@ -32,7 +32,7 @@
             </div>
           </div>
         </div>
-        <div class="col-sm-3">
+        <!--<div class="col-sm-3">
           <div class="panel panel-default panel-team">
             <img src="/images/team-freddy.jpg" />
             <div class="panel-body">
@@ -41,7 +41,7 @@
               <p>Freddy West is a serial entrepreneur who, prior to Spire, founded two E-commerce companies. Previously she worked for WPP in a variety of global marketing &amp; advertising agencies, including Ogilvy & Mediaedge. She also Chaired AVP, a non-profit helping deliver educational opportunities for current and former offenders. Freddy holds a BA from Oxford University and an MBA from Harvard Business School.</p>
             </div>
           </div>
-        </div>
+        </div>-->
         <div class="col-sm-3">
           <div class="panel panel-default panel-team">
             <img src="/images/team-oliver_s.jpg" />
